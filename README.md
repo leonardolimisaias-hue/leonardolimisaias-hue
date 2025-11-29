@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm leonardo lim isaias II
  
 I'm a passionate developer who loves building web applications, especially with **Python** and **Django**.  
 I enjoy solving problems, learning new technologies, and creating projects that make an impact.
