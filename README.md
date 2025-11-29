@@ -37,7 +37,7 @@ A RESTful API for a notes application with token authentication.
  
 ## 📫 Contact Me
  
-- **Email:** your-email@example.com  
+- **Email:** leonardolimisaias@gmail.com  
 - **LinkedIn:** https://linkedin.com/in/your-profile  
 - **GitHub:** https://github.com/your-username  
  
